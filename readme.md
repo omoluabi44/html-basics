@@ -1,2 +1,2 @@
-my first github repo
+my first github repot
 sudo yum 
